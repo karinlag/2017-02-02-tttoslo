@@ -12,7 +12,7 @@ kind: "workshop"
 title: "Workshop Title"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/swcarpentry/workshop-template
+repo: https://github.com/karinlag/2017-02-02-tttoslo
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://swcarpentry.github.io/lesson-example', use '/lesson-example'.
